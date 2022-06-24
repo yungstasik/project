@@ -13,7 +13,7 @@ const personalMovieDb = {
 const a = prompt ('Один из последних фильмов?', ''),
       b = prompt ('На сколько оцените его?', ''),
       c = prompt ('Один из последних фильмов?', ''),
-      d = prompt ('На сколько оцените его?', '');
+      d = prompt ('На сколько оцените его?', '');awdawdawd
 
 personalMovieDb.movies[a] = b;
 personalMovieDb.movies[c] = d;
